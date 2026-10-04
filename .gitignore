@@ -1,0 +1,5 @@
+.local-mobile/
+*.pfx
+*.protected
+*.drawer
+work/
